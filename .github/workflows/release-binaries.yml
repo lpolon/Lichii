@@ -690,3 +690,4 @@ jobs:
             --prerelease \
             --title "Lichii ${GITHUB_REF_NAME} build ${GITHUB_RUN_NUMBER} (${GITHUB_SHA::7})" \
             --notes-file notes.md
+# Personal fork test branch: Windows MSVC only, run manually with publish_release=false.
